@@ -25,6 +25,7 @@
 >* 기간 : 2019/02/11 ~ 현재
 >* 사용기술 : Swift, Firebase
 >* [AppStore](https://apps.apple.com/kr/app/welt/id1199426384)
+![](https://github.com/sanghyuk-e/resume/blob/master/image/Welt01.png)
 ***
 
 ### 디지털 치료제 데모
