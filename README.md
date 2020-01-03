@@ -3,7 +3,7 @@
 
 ## 링크
 * 블로그 : [https://sanghyuk.tistory.com/](https://sanghyuk.tistory.com/)
-* LinkedIn : [https://www.linkedin.com/in/sanghyuk-lee-b67390180/](https://www.linkedin.com/in/sanghyuk-lee-b67390180/)
+* LinkedIn : [www.linkedin.com/in/sanghyuk-lee](https://www.linkedin.com/in/sanghyuk-lee-b67390180/)
 * Github : [https://github.com/sanghyuk-e](https://github.com/sanghyuk-e)
 
 ## 경력
