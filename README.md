@@ -25,7 +25,8 @@
 >* 기간 : 2019/02/11 ~ 현재
 >* 사용기술 : Swift, Firebase
 >* [AppStore](https://apps.apple.com/kr/app/welt/id1199426384)
-<img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt01.png" width="200" height="881"><img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt02.png" width="200" height="881"><img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt03.png" width="200" height="881">
+
+<img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt01.png" width="200" height="881">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt02.png" width="200" height="881">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt03.png" width="200" height="881">
 
 ***
 
