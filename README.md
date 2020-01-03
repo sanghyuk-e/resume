@@ -35,6 +35,7 @@
 >* 기간 : 2019/10/15 ~ 201/11/29
 >* 사용기술 : Swift
 >* 내부에서 미공개로 진행
+
 <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx01.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx02.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx03.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx04.png" width="200" height="433">
 <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx05.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx06.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx07.png" width="200" height="433">
 
