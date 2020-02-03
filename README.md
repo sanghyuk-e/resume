@@ -1,10 +1,12 @@
 # resume
 경력기술서
 
+
 ## 링크
 * [블로그](https://sanghyuk.tistory.com/)
 * [LinkedIn](https://www.linkedin.com/in/sanghyuk-lee/)
 * [Github](https://github.com/sanghyuk-e)
+
 
 ## 경력
 
@@ -14,9 +16,11 @@
 [알앤비소프트](https://www.rnbsoft.com/)
 * 사원 - 2017/03/27 ~ 2018/04/30
 
+
 ## 활동
 [패스트캠퍼스](https://www.fastcampus.co.kr/) iOS 개발 SCHOOL 7기 수료
 * 2018/05/07 ~ 2018/09/01
+
 
 ## 프로젝트
 
@@ -34,9 +38,7 @@
 
 <img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt01.png" width="200" height="881">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt02.png" width="200" height="881">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/Welt03.png" width="200" height="881">
 
-***
 
-### 디지털 치료제 데모
 >**디지털 치료체 데모를 위한 App**
 >* 기간 : 2019/10/15 ~ 2019/11/29
 >* 사용기술 : Swift, AVPlayer, open source
@@ -47,9 +49,7 @@
 <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx01.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx02.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx03.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx04.png" width="200" height="433">
 <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx05.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx06.png" width="200" height="433">  <img src="https://github.com/sanghyuk-e/resume/blob/master/image/dtx07.png" width="200" height="433">
 
-***
 
-### 가속도데이터 측정
 >**연구과제 데이터수집을 위한 가속도 데이터 측정 App**
 >* 기간 : 2019/10/08
 >* 사용기술 : Swift
@@ -57,34 +57,37 @@
 >* 가속도 샘플데이터 수집 및 저장을 위한 App
 ***
 
-### 마이리얼트립 모방
->**패스트캠퍼스 iOS 스쿨의 최종과제로 진행**
+### 패스트캠퍼스
+>**마이리얼트립 모방**
+>* 수료 전 최종 팀 프로젝트
 >* 기간 : 2018/07/30 ~ 2018/08/24
 >* 사용기술 : Swift
 >* 역할분담 후 스크럼 방식으로 진행
 >* [상세보기](https://github.com/sanghyuk-e/MyRealTrip_Project)
-***
 
-### 인천공항 주차장 현황
->**패스트캠퍼스 iOS 스쿨에서 해커톤으로 진행**
+
+>**인천공항 주차장 현황**
+>* 해커톤 프로젝트로 진행
 >* 기간 : 2018/07/20
 >* 사용기술 : Swift, 공공데이터포털API
 >* 1인 프로젝트로 하루만에 진행
 >* [상세보기](https://github.com/sanghyuk-e/hackathon/blob/master/README.md)
+
 ***
 
-### AJ렌터카 ERP
->**알앤비소프트에서 AJ렌터카 ERP구축 프로젝트에 참여**
+### 알앤비소프트
+>**AJ렌터카 ERP**
+>* 알앤비소프트에서 AJ렌터카 ERP구축 프로젝트에 참여
 >* 기간 : 2018/01 ~ 2018/04
 >* 사용기술 : Java, Javascript, AngularJS, Ajax, Jquery, PostgreSQL
 >* AJ렌터카 내부에서만 사용되는 웹으로 링크/스크린샷 공유 불가
 >* 사고/수리 부분 담당자 배정 기능 개발
 >* 지역/수리종류 별 담당자 지정기능 개발
 >* 차량 및 보험가입현황 조회기능 개발
-***
 
-### KT IoT Smart Portal 
->**알앤비소프트에서 KT IoT기기 통합 플랫폼 구축에 참여**
+
+>**KT IoT Smart Portal **
+>* 알앤비소프트에서 KT IoT기기 통합 플랫폼 구축에 참여
 >* 기간 : 2017/06 ~ 2018/01
 >* 사용기술 : Java, Javascript, JSP, Ajax, Jquery, PostgreSQL
 >* KT 와 B2B 회원들을 위한 웹으로 링크/스크린샷 공유 불가
