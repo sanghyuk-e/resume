@@ -25,7 +25,7 @@
 ## 프로젝트
 
 ### WELT
->**WELT Smart Belt를 이용하여 측정데이터를 모니터링할 수 있는 App**
+>**WELT Smart Belt로 측정한 데이터를 모니터링할 수 있는 App**
 >* 기간 : 2019/02/11 ~ 현재
 >* 사용기술 : Swift, Firebase
 >* [AppStore](https://apps.apple.com/kr/app/welt/id1199426384)
@@ -42,7 +42,7 @@
 >**디지털 치료체 데모를 위한 App**
 >* 기간 : 2019/10/15 ~ 2019/11/29
 >* 사용기술 : Swift, AVPlayer, open source
->* Dtx 데모데이를 위한 샘플 App
+>* DTx 데모데이를 위한 샘플 App
 >* AVPlayer를 이용한 동영상플레이어 개발
 >* 개발기간 단축을 위한 open source 적응 활용
 
@@ -72,7 +72,7 @@
 >* 해커톤 프로젝트로 진행
 >* 기간 : 2018/07/20
 >* 사용기술 : Swift, 공공데이터포털API
->* 1인 프로젝트로 하루만에 진행
+>* 1인 프로젝트
 >* [상세보기](https://github.com/sanghyuk-e/hackathon/blob/master/README.md)
 
 ***
