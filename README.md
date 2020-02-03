@@ -86,7 +86,7 @@
 >* 차량 및 보험가입현황 조회기능 개발
 
 
->**KT IoT Smart Portal **
+>**KT IoT Smart Portal**
 >* 알앤비소프트에서 KT IoT기기 통합 플랫폼 구축에 참여
 >* 기간 : 2017/06 ~ 2018/01
 >* 사용기술 : Java, Javascript, JSP, Ajax, Jquery, PostgreSQL
@@ -95,4 +95,5 @@
 >* 관리자 하위 관리자 신청/승인, 및 권한부여 기능 개발
 >* GiGA IoT 관리자 웹 개발
 >* Olleh Map Api 이용한 디바이스 위치 표시기능 개발
+
 ***
