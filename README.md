@@ -55,6 +55,8 @@
 >* 사용기술 : Swift
 >* 기업 내 구성원들에게만 공유
 >* 가속도 샘플데이터 수집 및 저장을 위한 App
+
+<img src="https://github.com/sanghyuk-e/resume/blob/master/image/Accelerometer01.png" width="200" height="881">
 ***
 
 ### 패스트캠퍼스
