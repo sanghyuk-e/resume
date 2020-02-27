@@ -73,7 +73,7 @@
 >* 기간 : 2018/07/20
 >* 사용기술 : Swift, 공공데이터포털API
 >* 1인 프로젝트
->* [상세보기](https://github.com/sanghyuk-e/hackathon/blob/master/README.md)
+>* [상세보기](https://github.com/sanghyuk-e/hackathon)
 
 ***
 
