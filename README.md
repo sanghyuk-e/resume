@@ -1,5 +1,5 @@
 # resume
-경력기술서
+경력기술서[![HitCount](http://hits.dwyl.com/sanghyuk-e/resume.svg)](http://hits.dwyl.com/sanghyuk-e/resume)
 
 
 ## 링크
